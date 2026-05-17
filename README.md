@@ -1,16 +1,34 @@
-## Hi there 👋
+# Davy — Davyscodelab
 
-<!--
-**Davyscodelab/Davyscodelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brede IT-achtergrond, geen programmeur van opleiding.  
+Ik bouw tools die mijn eigen leven makkelijker maken — en leer daarbij elke keer bij.
 
-Here are some ideas to get you started:
+## Werkwijze
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ik werk met **Claude (Anthropic)** als AI-assistent: ik omschrijf het probleem,
+stuur de richting en valideer het resultaat. De code is Python, de aanpak is
+pragmatisch, het doel is altijd praktisch bruikbaar.
+
+## Projecten
+
+| Project | Wat doet het? |
+|---|---|
+| [Sollicitatielogger](https://github.com/Davyscodelab/Sollicitatielogger) | Leest mails via IMAP en logt sollicitatie-antwoorden in Excel |
+| [CSV-verwerker](https://github.com/Davyscodelab/CSV-verwerker) | Verwerkt KBC-bankuittreksels voor import in budgettools |
+| [Passbot](https://github.com/Davyscodelab/Passbot) | Discord-bot prototype — slash commands, rolbeheer, ledenverwelkoming |
+
+## Homelab
+
+Naast de scripts onderhoud ik een kleine thuisinfrastructuur:
+
+| Apparaat | Rol |
+|---|---|
+| Raspberry Pi 4 (Tuvok) | PiHole (DNS/adblocking), SSH key-authenticatie |
+| Dell Optiplex (PX01) | Proxmox hypervisor — in opbouw |
+
+Infrastructuur en configuraties worden bijgehouden in een **Obsidian-vault**
+met gestructureerde documentatie per apparaat en project.
+
+## Stack & tools
+
+`Python` · `discord.py` · `openpyxl` · `pandas` · `IMAP` · `Linux` · `Proxmox` · `VS Code` · `Git`
