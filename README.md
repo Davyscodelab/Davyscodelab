@@ -19,15 +19,8 @@ pragmatisch, het doel is altijd praktisch bruikbaar.
 
 ## Homelab
 
-Naast de scripts onderhoud ik een kleine thuisinfrastructuur:
-
-| Apparaat | Rol |
-|---|---|
-| Raspberry Pi 4 (Tuvok) | PiHole (DNS/adblocking), SSH key-authenticatie |
-| Dell Optiplex (PX01) | Proxmox hypervisor — in opbouw |
-
-Infrastructuur en configuraties worden bijgehouden in een **Obsidian-vault**
-met gestructureerde documentatie per apparaat en project.
+Naast de scripts onderhoud ik een kleine thuisinfrastructuur: https://github.com/Davyscodelab/homelab
+Infrastructuur en configuraties worden bijgehouden in een **Obsidian-vault** met gestructureerde documentatie per apparaat en project.
 
 ## Stack & tools
 
